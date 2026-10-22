@@ -1,17 +1,2 @@
 # belajar-IT-
 catatan belajar it ku gading yudha
-# Cara Kerja Komputer
-## Penjelasan dengan bahasaku
-(Tulis pemahamanmu tentang bedanya RAM, Storage, CPU, dan GPU)
-
-## Istilah penting
-(Tulis definisi singkat Program vs Process, dll)
-
-## Praktik yang kulakukan (perintah dan hasilnya)
-(Ceritakan soal buka Task Manager, tab Processes & Performance)
-
-## Contoh atau skenario
-(Boleh pakai analogi dapur restoran atau skenario lainnya)
-
-## Yang masih bingung
-(Kosongkan kalau sudah paham semua, atau tulis hal yang masih mengganjal)
